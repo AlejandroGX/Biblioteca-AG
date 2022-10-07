@@ -244,7 +244,7 @@
                                             placeholder="Cantidad de libros">
                                     </div>
                                     <div class="col-sm-6">
-                                        <input type="text" class="form-control form-control-user" name="codigo"
+                                        <input type="text" class="form-control form-control-user" name="person"
                                             placeholder="Persona">
                                     </div>
                                 </div>
